@@ -1,0 +1,12 @@
+/* ARTICLES */
+#main .articles-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+}
+#main .articles-container .row {
+  padding: 4rem;
+  border: #00ADB5 groove .1rem;
+  border-radius: 1rem;
+}
