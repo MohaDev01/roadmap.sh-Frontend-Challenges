@@ -23,7 +23,12 @@
     <li>
       Personal Portfolio
       <ul>
-        <li>Status: Coming soon...</li>
+        <li>Status: Completed – <strong>Live Now!</strong></li>
+        <li>
+          <a href="https://personal-portfolio-mohamed-younis.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Website-black" alt="Personal Portfolio Website">
+          </a>
+        </li>
       </ul>
     </li>
   </ol>
